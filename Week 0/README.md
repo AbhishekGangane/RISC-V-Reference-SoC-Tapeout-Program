@@ -23,10 +23,11 @@ $ make
 
 $ sudo make install
 ```
-<img width="1920" height="1080" alt="yosys" src="https://github.com/user-attachments/assets/3d3e72ee-6fde-4f7d-b728-8b868285656a" />
 
+<img width="1920" height="1080" alt="yosys" src="https://github.com/user-attachments/assets/b6771784-325e-420b-b38b-583e6dbb9bed" />
 
-<img width="1053" height="1026" alt="yosys_complete" src="https://github.com/user-attachments/assets/6b1f8efa-e672-49cb-9aa6-2d85f1fcc1f3" />
+<img width="1053" height="1026" alt="yosys_complete" src="https://github.com/user-attachments/assets/51d5eda5-15bd-4979-9bdb-54f29d9c258f" />
+
 
 # Iverilog
 ```
@@ -34,7 +35,8 @@ $ sudo apt-get update
 
 $ sudo apt-get install iverilog
 ```
-<img width="1053" height="1046" alt="Iverilog_complete_start_gtkwave" src="https://github.com/user-attachments/assets/24dbf974-4022-44c8-b9b0-257f55122338" />
+<img width="1053" height="1046" alt="Iverilog_complete_start_gtkwave" src="https://github.com/user-attachments/assets/9c6c9cf5-b39e-433c-bb2b-2b451d87b9f1" />
+
 
 # gtkwave
 ```
@@ -42,7 +44,8 @@ $ sudo apt-get update
 
 $ sudo apt install gtkwave
 ```
-<img width="1053" height="1046" alt="GTKwave" src="https://github.com/user-attachments/assets/6d2f0350-016f-4e31-81fc-22a3d14b4be4" />
 
+
+<img width="1053" height="1046" alt="GTKwave" src="https://github.com/user-attachments/assets/39be81fc-b272-4612-8740-e30c89e17e70" />
 
 
