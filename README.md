@@ -2,3 +2,4 @@
 Open source tapeout-ready SoC reference for RISC‑V projects
 
 # [Week 0 - Tools Installation](Week%200/README.md)
+# [Week 1 - Design Setup](Week%201/README.md)
