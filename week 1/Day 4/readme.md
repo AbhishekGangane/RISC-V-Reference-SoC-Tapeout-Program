@@ -1,5 +1,5 @@
 
-## GLS, Synthesis-Simulation Mismatch, and Blocking/Non-blocking Statements
+# Day 4 - GLS, Synthesis-Simulation Mismatch, and Blocking/Non-blocking Statements
 
 ### Why is Gate Level Simulation (GLS) necessary?
 - Verify the correctness of the design after synthesis
